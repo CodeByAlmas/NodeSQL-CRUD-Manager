@@ -1,5 +1,15 @@
 # 🧩 NodeSQL CRUD Manager
 
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![EJS](https://img.shields.io/badge/EJS-8C8C8C?style=for-the-badge&logo=ejs&logoColor=white)
+![CRUD](https://img.shields.io/badge/CRUD-Operations-blue?style=for-the-badge)
+
+
+> 💾 A beginner-friendly full-stack project demonstrating Node.js and MySQL integration with clean CRUD operations and dynamic EJS views.
+
+
 A full-stack **Node.js + MySQL** CRUD (Create, Read, Update, Delete) web app built with **Express.js**, **EJS**, and **MySQL2**.  
 This project demonstrates how Node.js interacts with SQL databases — including routes, forms, and data manipulation — in a clean and minimal user management system.
 
@@ -44,6 +54,18 @@ SQLCLASS/
 
 ---
 
+## 💡 Learning Highlights
+
+How Node.js communicates with MySQL databases
+
+Using EJS for server-rendered pages
+
+Implementing RESTful routes
+
+Using method-override for PATCH/DELETE support
+
+Structuring full CRUD logic with Express
+
 ## ⚙️ Setup Instructions
 
 ### 1️⃣ Clone the repository
@@ -65,18 +87,6 @@ CREATE DATABASE delta_app;
 node index.js
 
 Then visit 👉 http://localhost:8080
-
-## 💡 Learning Highlights
-
-How Node.js communicates with MySQL databases
-
-Using EJS for server-rendered pages
-
-Implementing RESTful routes
-
-Using method-override for PATCH/DELETE support
-
-Structuring full CRUD logic with Express
 
 ## 📸 Screenshots
 
