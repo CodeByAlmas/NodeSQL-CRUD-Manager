@@ -2,6 +2,16 @@
   "name": "sqlclass",
   "version": "1.0.0",
   "description": "",
+  "keywords": [
+    "Node.js",
+    "Express",
+    "MySQL",
+    "CRUD",
+    "EJS",
+    "Full Stack",
+    "Faker.js",
+    "UUID"
+  ],
   "license": "ISC",
   "author": "Mohd Almas",
   "type": "commonjs",

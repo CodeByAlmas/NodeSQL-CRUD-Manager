@@ -93,3 +93,7 @@ Structuring full CRUD logic with Express
 📧 Email: mohd2almas321@gmail.com
 
 ⭐ If you found this useful, please give it a Star on GitHub — it motivates me to keep learning and building!
+
+## 🏷️ Keywords
+
+Node.js · Express · MySQL · CRUD · EJS · Full Stack · Faker.js · UUID
